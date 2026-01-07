@@ -1,0 +1,96 @@
+---
+title: SpaceMonkey's Weapon Guide - Dawning 2025
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: Permafrost
+    hash: 2316331767
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Volatile Launch, Confined Launch]
+          - [High-Velocity Rounds]
+          - [Attrition Orbs, Rimestealer]
+          - [Crystalline Corpsebloom]
+        masterwork: [Reload, Blast Radius]
+        text: >-
+          This is about two or three years too late. A great looking add clear and utility GL,
+          held back by the fact that area denial frames exist and invalidate this thing's entire
+          purpose. Honestly, this still ticks a lot of boxes for me personally, so I'll be going
+          for one in the hopes that the archetype can make a comeback.
+      - tags: [pve]
+        perks:
+          - [
+              Volatile Launch,
+              Confined Launch,
+              Quick Launch,
+              Linear Compensator,
+              Smart Drift Control,
+            ]
+          - [High-Velocity Rounds]
+          - [Attrition Orbs, Rimestealer, Demolitionist, Lead from Gold]
+          - [Crystalline Corpsebloom, Reaper's Tithe]
+        masterwork: [Reload, Blast Radius]
+        text: >-
+          This is about two or three years too late. A great looking add clear and utility GL,
+          held back by the fact that area denial frames exist and invalidate this thing's entire
+          purpose. Honestly, this still ticks a lot of boxes for me personally, so I'll be going
+          for one in the hopes that the archetype can make a comeback.
+
+  - name: Fimbulwinter Stitch
+    hash: 2645567209
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Corkscrew Rifling]
+          - [Flared Magwell]
+          - [Supercharged Magazine]
+          - [Jolting Feedback, Voltshot]
+        masterwork: [Reload]
+        text: >-
+          Terrible archetype and worst-in-class ammo gen stat. Pretty disappointing but is still
+          a totally serviceable sidearm for arc enthusiasts.
+      - tags: [pve]
+        perks:
+          - [Corkscrew Rifling, Fluted Barrel]
+          - [
+              Flared Magwell,
+              Light Mag,
+              Armor-Piercing Rounds,
+              High-Caliber Rounds,
+              Ricochet Rounds,
+            ]
+          - [Supercharged Magazine, Loose Change]
+          - [Jolting Feedback, Voltshot]
+        masterwork: [Reload, Range]
+        text: >-
+          Terrible archetype and worst-in-class ammo gen stat. Pretty disappointing but is still
+          a totally serviceable sidearm for arc enthusiasts.
+
+  - name: Mistral Lift
+    hash: 766122634
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Enhanced Battery]
+          - [Envious Arsenal]
+          - [Bait and Switch]
+        masterwork: [Charge Time]
+        text: >-
+          LFRs are pretty terrible right now, but if they were to come back into meta this is a
+          legitimate contender with Scintillation as the most viable option. The utility
+          potential of having withering gaze in the first column paired with a damage perk is
+          honestly pretty intriguing.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Enhanced Battery, Accelerated Coils]
+          - [Envious Arsenal, Withering Gaze, Reconstruction]
+          - [Bait and Switch, Precision Instrument]
+        masterwork: [Charge Time, Reload, Handling]
+        text: >-
+          LFRs are pretty terrible right now, but if they were to come back into meta this is a
+          legitimate contender with Scintillation as the most viable option. The utility
+          potential of having withering gaze in the first column paired with a damage perk is
+          honestly pretty intriguing.

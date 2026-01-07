@@ -1,0 +1,1008 @@
+---
+title: SpaceMonkey's Weapon Guide - Renegades
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: All or Nothing
+    hash: 2023002233
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Extended Barrel]
+          - [Projection Fuse, Tactical Heatsink, Overclocked Heatsink]
+          - [Delicate Tuning, Zen Moment]
+          - [Kill Clip, Headseeker]
+        masterwork: [Range]
+        text: &allornothing >-
+          This should be a very good weapon for PvP - I'm pretty excited about
+          this one. I'm treating it for now like it's a normal rapid-fire but
+          the heat element may factor in in a negative way, so we'll have to
+          see.
+      - tags: [pvp]
+        perks:
+          - [Extended Barrel, Chambered Compensator, Arrowhead Brake]
+          - [
+              Projection Fuse,
+              Tactical Heatsink,
+              Overclocked Heatsink,
+              Light Heatsink,
+              Particle Repeater,
+            ]
+          - [Delicate Tuning, Zen Moment, Keep Away, Slice]
+          - [Kill Clip, Headseeker, Desperado, Sword Logic]
+        masterwork: [Range, Stability, Handling]
+        text: *allornothing
+
+  - name: M-17 "Fast Talker"
+    hash: 2770035786
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Corkscrew Rifling]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Cooling Baubles, Attrition Orbs]
+          - [Target Lock]
+        masterwork: [Reload, Cooling Efficiency]
+        text: &fasttalker >-
+          This is a really hard weapon to evaluate for both PvE and PvP as it is
+          our only Balanced Heat weapon (at least until the dungeon comes out).
+          Remember that Balanced weapons need to be manually reloaded/vented
+          just before overheating to get the massive reload bonus. If you're
+          good at that little minigame then this is the best Peacekeepers DPS
+          roll in the kinetic slot (you really want Accelerated Assault for that
+          purpose). This is probably just fine in roam content so if you enjoy
+          it go ahead. For PvP this could be quite good or excessively mediocre.
+          It has the rolls for it, just a question of how the frame performs.
+          After doing some testing basically any target lock fast talker with
+          accelerated assault is slightly superior to antedate for peacekeepers
+          dps. With that in mind if you go attrition orbs then you'll be
+          consistently getting some good utility while doing a solid rotation.
+          That being said cooling baubles has the potential to go absolutely
+          nuts if you can pick up some orbs or elemental pickups while strafing
+          and shooting: we're talking like 2-5x longer single mag than either
+          antedate or a non-baubles fast talker. So the way to look at it is
+          that cooling baubles won't always work, but the gun at base will still
+          be slightly better than an antedate and it has the potential to every
+          once in awhile go nuts on dps. Conversely attrition orbs has a lower
+          ceiling but will more consistently pump out utility. Both good
+          options, just depends on your roll and your personal preference.
+      - tags: [pve]
+        perks:
+          - [
+              Corkscrew Rifling,
+              Fluted Barrel,
+              Arrowhead Brake,
+              Hammer-Forged Rifling,
+              Smallbore,
+            ]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+              Projection Fuse,
+            ]
+          - [Cooling Baubles, Attrition Orbs]
+          - [Target Lock, Crystalline Corpsebloom]
+        masterwork: [Reload, Cooling Efficiency, Range, Handling]
+        text: *fasttalker
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [
+              Projection Fuse,
+              Tactical Heatsink,
+              Overclocked Heatsink,
+              Light Heatsink,
+              Particle Repeater,
+            ]
+          - [Dynamic Sway Reduction, Delicate Tuning, Killing Wind]
+          - [Target Lock, Sword Logic, Tap the Trigger]
+        masterwork: [Range, Handling, Stability]
+        text: *fasttalker
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [
+              Projection Fuse,
+              Tactical Heatsink,
+              Overclocked Heatsink,
+              Light Heatsink,
+              Particle Repeater,
+            ]
+          - [Dynamic Sway Reduction, Delicate Tuning, Killing Wind]
+          - [Target Lock, Sword Logic, Tap the Trigger]
+        masterwork: [Range, Handling, Stability]
+        text: *fasttalker
+
+  - name: Modified B-7 Pistol
+    hash: 1872906663
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Rimestealer, Firefly]
+          - [Headstone, Crystalline Corpsebloom]
+        masterwork: [Reload, Cooling Efficiency]
+        text: &b7pistol >-
+          This is ostensibly a better version of the best PvE hand cannon
+          archetype. The only thing it is missing is a damage perk, but it has
+          some decent utility and splash. With the inherent good damage profile
+          of hand cannons, the bonus of being a heat weapon, and being the best
+          archetype of hand cannons - this should be a very solid candidate for
+          all PvE content.
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+              Projection Fuse,
+            ]
+          - [Rimestealer, Firefly, Demolitionist]
+          - [Headstone, Crystalline Corpsebloom]
+        masterwork: [Reload, Cooling Efficiency, Range, Handling]
+        text: *b7pistol
+
+  - name: Compact Defender
+    hash: 2659286158
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Enhanced Heatsink, Overclocked Heatsink]
+          - [Destabilizing Rounds]
+          - [Repulsor Brace]
+        masterwork: [Reload, Range]
+        text: &compactdefender >-
+          This is now the best sidearm in the game. The archetype is not the
+          strongest for either sidearms or the dynamic heat family, but the perk
+          combination and the natural strength of the sidearms (highest damage
+          primary weapons) can't be beat. This is a very impressive primary
+          weapon. No other blaster from this season really rewards you as
+          demonstrably as this one does for using the Dynamic Heat Limiter proc
+          in just general play.
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore]
+          - [
+              Enhanced Heatsink,
+              Overclocked Heatsink,
+              Projection Fuse,
+              Light Heatsink,
+              Ionized Heatsink,
+            ]
+          - [Destabilizing Rounds]
+          - [Repulsor Brace]
+        masterwork: [Reload, Range, Cooling Efficiency]
+        text: *compactdefender
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Projection Fuse, Overclocked Heatsink]
+          - [Rangefinder]
+          - [Kill Clip]
+        masterwork: [Range]
+        text: *compactdefender
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore]
+          - [
+              Projection Fuse,
+              Overclocked Heatsink,
+              Enhanced Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+            ]
+          - [Rangefinder]
+          - [Kill Clip, Precision Instrument]
+        masterwork: [Range, Handling]
+        text: *compactdefender
+
+  - name: Uncivil Discourse
+    hash: 2462965802
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Delicate Tuning]
+          - [Precision Instrument]
+        masterwork: [Handling]
+        text: &uncivil >-
+          A cool new weapon type but sadly pretty pigeonholed in usage. It is
+          the best Lucky Pants hand cannon by a wiiiiide margin now, especially
+          if you can pick up an Accelerated Assault roll. Outside of that in PvE
+          it's basically just a worse sniper rifle, and special snipers have had
+          a rough time in PvE for a while now. In PvP this thing melts - it's
+          basically a better Forerunner.
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Particle Repeater,
+              Projection Fuse,
+              Tactical Heatsink,
+            ]
+          - [Delicate Tuning, Lone Wolf, Keep Away]
+          - [Precision Instrument, Opening Shot]
+        masterwork: [Handling, Stability]
+        text: *uncivil
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Fluted Barrel]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Air Trigger]
+          - [Precision Instrument]
+        masterwork: [Cooling Efficiency]
+        text: *uncivil
+      - tags: [pvp]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+            ]
+          - [Air Trigger, Keep Away, Quickdraw, Cooling Baubles]
+          - [Precision Instrument]
+        masterwork: [Cooling Efficiency, Handling, Reload]
+        text: *uncivil
+
+  - name: Refurbished A499
+    hash: 593808239
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Flared Magwell]
+          - [Bewildering Burst, Snapshot Sights]
+          - [Aggregate Charge]
+        masterwork: [Reload]
+        text: &a499 >-
+          This gun is so cool. Hits like an absolute truck and is supported so
+          nicely by the artifact this season - and all of that in addition to
+          being a perfect pairing for the Praxic Blade which is also Kinetic and
+          allows you to double dip your surges. You really want Accelerated
+          Assault here - as is the case with any DPS focused weapon this season.
+          Perk 1 slot is basically just a big whiff, so it's kinda whatever you
+          personally want. I like Bewildering Burst because I like the
+          availability of the extra crowd control if I want it, but in general a
+          perk focused on landing your crits as fast as possible is probably the
+          best option for most people. Overall you want to juice your reload
+          stat as much as possible.
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Flared Magwell, Light Mag]
+          - [
+              Bewildering Burst,
+              Snapshot Sights,
+              Moving Target,
+              No Distractions,
+              Lone Wolf,
+            ]
+          - [Aggregate Charge]
+        masterwork: [Reload, Handling, Stability]
+        text: *a499
+
+  - name: Duty Bound
+    hash: 260532765
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [Flared Magwell, Tactical Mag]
+          - [Bewildering Burst]
+          - [Adhesive Ordnance, Rampage]
+        masterwork: [Reload, Range, Handling]
+        text: >-
+          This is mostly pretty underwhelming. This weapon is pretty
+          well-supported by the artifact this season but I still just don't see
+          it being better than many weapons it is competing against. Adhesive
+          Ordnance is nifty at least.
+
+  - name: Hawthorne's Field-Forged Shotgun
+    hash: 1402874079
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling, Smallbore]
+          - [Assault Mag, Tactical Mag, Appended Mag, Light Mag]
+          - [Threat Detector, Grave Robber, Lead from Gold]
+          - [Chill Clip]
+        masterwork: [Reload, Handling, Range]
+        text: >-
+          This is an interesting Chill Clip vehicle, but otherwise is pretty
+          uninteresting. The archetype is poor and the Perk 1 column is lacking.
+          Especially with the nerf to Shatter effects Chill Clip is not what it
+          once was.
+
+  - name: Nox Sidereal IV
+    hash: 74733286
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Hammer-Forged Rifling,
+              Smallbore,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Enhanced Battery]
+          - [Clown Cartridge, Demolitionist]
+          - [Reservoir Burst, Crystalline Corpsebloom]
+        masterwork: [Reload]
+        text: >-
+          Even though this is a good archetype this is a seriously outdated perk
+          pool.
+
+  - name: Riptide
+    hash: 1323862250
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Full Bore]
+          - [Enhanced Battery]
+          - [Auto-Loading Holster]
+          - [Chill Clip, Controlled Burst]
+        masterwork: [Charge Time]
+        text: &riptide >-
+          I'm pretty baffled as to why this was released not only alongside two
+          stasis fusion from last season and another one this season - and one
+          of those being Lionfish, which was just a Riptide replacement. As it
+          stands this gun has BiS rolls for both PvE and PvP and is a major
+          beneficiary of the Accelerated Assault origin trait - which makes this
+          blow Lionfish out of the water.
+      - tags: [pve]
+        perks:
+          - [Full Bore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+          - [Enhanced Battery, Accelerated Coils]
+          - [Auto-Loading Holster]
+          - [Chill Clip, Controlled Burst]
+        masterwork: [Charge Time, Handling]
+        text: *riptide
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Full Bore]
+          - [Projection Fuse]
+          - [Under Pressure]
+          - [Closing Time]
+        masterwork: [Charge Time]
+        text: *riptide
+      - tags: [pvp]
+        perks:
+          - [Full Bore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+          - [Projection Fuse, Particle Repeater]
+          - [Under Pressure]
+          - [Closing Time]
+        masterwork: [Charge Time, Handling, Range, Stability]
+        text: *riptide
+
+  - name: Something Something
+    hash: 690412397
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Appended Mag]
+          - [Triple Tap]
+          - [Elemental Honing]
+        masterwork: [Reload]
+        text: &something >-
+          At first glance this looks pretty underwhelming, and tbh given its
+          archetype it kind of is. However it isn't all doom and gloom. This can
+          get a rather interesting DPS roll, which obviously you want to pair
+          with the Accelerated Assault origin trait. This precise roll will be
+          very rare, and niche in use case, so don't sweat it if you can't get
+          this.
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+          - [Appended Mag, Extended Mag]
+          - [Triple Tap]
+          - [Elemental Honing]
+        masterwork: [Reload, Handling]
+        text: *something
+
+  - name: Evening SI4
+    hash: 3618823368
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Flared Magwell]
+          - [Heal Clip]
+          - [Incandescent]
+        masterwork: [Reload, Range]
+        text: &evening >-
+          The best archetype of the best primary family. Right away this is an
+          incredible option before we even get to the perks. And even then the
+          perks do not disappoint for either PvP or PvE. The only thing holding
+          this gun back is the lackluster ammo gen stat, but that doesn't seem
+          to be an issue for this season really.
+      - tags: [pve]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Flared Magwell, Tactical Mag, Accurized Rounds]
+          - [Heal Clip]
+          - [Incandescent]
+        masterwork: [Reload, Range, Handling]
+        text: *evening
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling, Fluted Barrel]
+          - [Accurized Rounds]
+          - [Lone Wolf]
+          - [Sword Logic]
+        masterwork: [Range]
+        text: *evening
+      - tags: [pvp]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Accurized Rounds]
+          - [Lone Wolf]
+          - [Sword Logic, Desperate Measures, Headseeker]
+        masterwork: [Range, Handling]
+        text: *evening
+
+  - name: Horror's Least
+    hash: 827835657
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Flared Magwell]
+          - [Trickle Charge, Supercharged Magazine]
+          - [Jolting Feedback]
+        masterwork: [Reload]
+        text: &horror >-
+          One of my all-time favorite PvP guns and it can get the exact roll
+          that it used to. For PvE it's a little less exciting, but it's a
+          perfectly decent arc pulse workhorse, especially with overload pulse
+          being in the artifact this season. With accelerated assault you don't
+          really need anything from the perk 1 column, so it's just kinda
+          whatever you want there.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Flared Magwell, Tactical Mag]
+          - [Trickle Charge, Supercharged Magazine, Overflow]
+          - [Jolting Feedback, Rolling Storm, Rampage]
+        masterwork: [Reload, Handling, Range]
+        text: *horror
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Zen Moment]
+          - [Kill Clip]
+        masterwork: [Range]
+        text: *horror
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [Accurized Rounds]
+          - [Zen Moment, Heating Up]
+          - [Kill Clip]
+        masterwork: [Range, Stability]
+        text: *horror
+
+  - name: Mos Athanor IV
+    hash: 1288422452
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Ricochet Rounds, High-Caliber Rounds]
+          - [Keep Away, Slideways]
+          - [Adagio]
+        masterwork: [Range]
+        text: &athanor >-
+          Another aggressive that is not quite Igneous Hammer, but it's New Gear
+          and can get some nifty tricks Igneous couldn't get. While being
+          statistically inferior to Crimil's Dagger as well it can get the same
+          roll everyone has been loving on that gun and can be used in a
+          different slot AND is New Gear, if that matters to you.
+      - tags: [pvp]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Full Bore,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Smallbore,
+            ]
+          - [
+              Ricochet Rounds,
+              High-Caliber Rounds,
+              Light Mag,
+              Armor-Piercing Rounds,
+              Flared Magwell,
+            ]
+          - [Keep Away, Slideways, Lone Wolf, Moving Target]
+          - [Adagio, Opening Shot, Eye of the Storm]
+        masterwork: [Range, Handling]
+        text: *athanor
+
+  - name: Oxygen SR3
+    hash: 444627789
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Fluted Barrel]
+          - [Steady Rounds]
+          - [Heal Clip, To the Pain]
+          - [Box Breathing]
+        masterwork: [Stability]
+        text: &oxygen >-
+          Basically just a PvP Hung Jury updated to New gear and in the energy
+          slot. Heal Clip is at least somewhat nifty.
+      - tags: [pvp]
+        perks:
+          - [
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Smallbore,
+              Arrowhead Brake,
+              Polygonal Rifling,
+            ]
+          - [Steady Rounds, Tactical Mag, Flared Magwell, Accurized Rounds]
+          - [Heal Clip, To the Pain, Rapid Hit]
+          - [Box Breathing]
+        masterwork: [Stability, Handling]
+        text: *oxygen
+
+  - name: Sarpedon-d
+    hash: 3318545829
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Corkscrew Rifling]
+          - [Tactical Mag, Flared Magwell]
+          - [Eddy Current]
+          - [Trench Barrel]
+        masterwork: [Reload]
+        text: &sarpedon >-
+          It's a good weapon and it comes with the best primary archetype in the
+          game right now. That being said, it is exclusive to arc subclasses
+          since the only good perk 1 options are both heavily arc-buff based.
+      - tags: [pve, god-pve]
+        perks:
+          - [Corkscrew Rifling, Smallbore, Barrel Shroud]
+          - [Tactical Mag, Flared Magwell, Accurized Rounds]
+          - [Eddy Current, Trickle Charge]
+          - [Trench Barrel, One-Two Punch, Rolling Storm, Voltshot]
+        masterwork: [Reload, Range, Handling]
+        text: *sarpedon
+
+  - name: Monody-44
+    hash: 3201200906
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Full Bore]
+          - [Projection Fuse]
+          - [Lone Wolf]
+          - [Closing Time]
+        masterwork: [Charge Time]
+        text: &monody >-
+          High-Impact fusion rifles don't exist in PvE. For PvP this gets the
+          classic combo and is just here for those who enjoy this in crucible.
+      - tags: [pvp]
+        perks:
+          - [Full Bore, Extended Barrel, Hammer-Forged Rifling]
+          - [Projection Fuse]
+          - [Lone Wolf, Discord]
+          - [Closing Time]
+        masterwork: [Charge Time, Range]
+        text: *monody
+
+  - name: Motif-41
+    hash: 1685533876
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quick Launch]
+          - [High-Velocity Rounds]
+          - [Auto-Loading Holster]
+          - [Attrition Orbs, Incandescent]
+        masterwork: [Handling]
+        text: &motif >-
+          The best area denial we've gotten since Lost Signal. Each one released
+          since that original GL haven't had access to Autoloader, which IMO is
+          the top option for breech-loaded GLs.
+      - tags: [pve]
+        perks:
+          - [Quick Launch, Smart Drift Control, Countermass]
+          - [High-Velocity Rounds]
+          - [Auto-Loading Holster, Heal Clip]
+          - [
+              Attrition Orbs,
+              Incandescent,
+              Demolitionist,
+              Vorpal Weapon,
+              Master of Arms,
+            ]
+        masterwork: [Handling, Reload]
+        text: *motif
+
+  - name: Psi Aeterna IV
+    hash: 135971347
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Volatile Launch, Confined Launch]
+          - [Appended Mag]
+          - [Trickle Charge, Eddy Current]
+          - [Elemental Honing]
+        masterwork: [Handling, Blast Radius, Reload]
+        text: &aeterna >-
+          This is not Mint Retrograde. No Rewind Rounds and no Bait & Switch
+          means that is pretty much fundamentally not a universally applicable
+          and solitary DPS weapon - at least not until the shiny origin trait -
+          Accelerated Assault - gets fixed on this. The only real situation
+          where that could have been true is one Storm's Keep titan since
+          trickle charge will automatically fill the mag behind the barricade,
+          except the only real DPS perk is Elemental Honing… which hates being
+          on a true subclass since the options to stack up different elements
+          are so limited. That being said, as a supplemental DPS option in a
+          rotation, especially on a prismatic subclass that can take advantage
+          of multiple elements easily, this can definitely find a home. Overall
+          it's a weapon that hits very hard and should be good for general
+          content and even some higher end content where you just want any
+          rocket pulse and this frees up the kinetic slot.
+      - tags: [pve]
+        perks:
+          - [
+              Volatile Launch,
+              Confined Launch,
+              Linear Compensator,
+              Quick Launch,
+              Smart Drift Control,
+            ]
+          - [Appended Mag, High-Velocity Rounds, Flared Magwell]
+          - [Trickle Charge, Eddy Current, Beacon Rounds]
+          - [Elemental Honing, One for All, Rolling Storm, Jolting Feedback]
+        masterwork: [Handling, Blast Radius, Reload, Velocity]
+        text: *aeterna
+
+  - name: A Good Shout
+    hash: 3615748501
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quickload Rail]
+          - [Charged Bolts]
+          - [Envious Arsenal]
+          - [High Ground]
+        masterwork: [Reload]
+        text: &shout >-
+          Not in love with the perk combos for this crossbow tbh. Withering Gaze
+          is cool, but is it worth the heavy slot? Repulsor + Destab combo from
+          the heavy slot is interesting, but worth it? And the lack of
+          Autoloader is pretty sad. As part of a DPS rotation it should be good,
+          but I'd prefer something that had a bit more general usage.
+      - tags: [pve]
+        perks:
+          - [
+              Quickload Rail,
+              Low-Profile Rail,
+              Frictionless Rail,
+              Empowered Rail,
+            ]
+          - [Charged Bolts, Serrated Bolts]
+          - [Envious Arsenal, Withering Gaze, Repulsor Brace, Bolt Scavenger]
+          - [High Ground, Destabilizing Rounds]
+        masterwork: [Reload, Persistence, Velocity]
+        text: *shout
+
+  - name: Eighty-Six
+    hash: 2344383760
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Jagged Edge]
+          - [Swordmaster's Guard]
+          - [Relentless Strikes, Flash Counter]
+          - [Elemental Honing, Redirection]
+        masterwork: [Impact]
+        text: &eightysix >-
+          Extremely forgettable - the name is very apropos. There is one usable
+          roll for this and it's just the same Stronghold-style combo that we've
+          already gotten before. Hey, at least it's New Gear. There's also a
+          funny "primsatic bomb" build that's popped up for titans that uses the
+          first roll above.
+      - tags: [pve]
+        perks:
+          - [Jagged Edge, Honed Edge]
+          - [Swordmaster's Guard, Balanced Guard, Enduring Guard]
+          - [Relentless Strikes, Flash Counter]
+          - [Elemental Honing, Redirection]
+        masterwork: [Impact]
+        text: *eightysix
+
+  - name: Qua Vinctus IV
+    hash: 4176551594
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Appended Mag]
+          - [Demolitionist]
+          - [Killing Tally, Meganeura]
+        masterwork: [Handling]
+        text: &vinctus >-
+          This is a really good machine gun and very unique. Definitely
+          recommend picking this up. With accelerated assault this becomes
+          probably the best general purpose MG in the game.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Appended Mag, Flared Magwell, Light Mag]
+          - [Demolitionist, Hatchling]
+          - [Killing Tally, Meganeura]
+        masterwork: [Handling, Reload]
+        text: *vinctus
+
+  - name: Peculiar Charm
+    hash: 3620277039
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Flared Magwell]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+          - [Fitted Stock]
+        masterwork: [Reload]
+        text: &charm >-
+          Grip instead of origin trait hurts in PvE, but this gun is so unique
+          and so cool that it's worth it even without one. The main reason that
+          this gun isn't DOA for PvE is because bungie actually custom tuned the
+          damage scalars for red bars and elites to be higher than the rest of
+          the SMG family, so it actually winds up being one of the strongest
+          weapons for the season. The obvious and most direct comparison is to
+          THE Multimach roll - Attrition Orbs & Kinetic Tremors. While Multimach
+          procs both effects faster, Peculiar Charm simply does more damage. In
+          a vacuum I'd probably still take Multimach, but with the New Gear
+          bonus active the draw of Peculiar Charm is too strong this season. PvP
+          is a different story but a similar ending. This is actually pretty
+          good there, having crazy range for an SMG and being pretty forgiving.
+          Fitted Stock seems to be super important, along with as much range
+          stat as possible.
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore]
+          - [Flared Magwell, Accurized Rounds, Tactical Mag]
+          - [Attrition Orbs, Shoot to Loot]
+          - [Kinetic Tremors]
+          - [Fitted Stock, Short-Action Stock, Composite Stock]
+        masterwork: [Reload, Range, Handling]
+        text: *charm
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Rangefinder]
+          - [Master of Arms]
+          - [Fitted Stock]
+        masterwork: [Range]
+        text: *charm
+      - tags: [pvp]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Corkscrew Rifling,
+              Smallbore,
+              Arrowhead Brake,
+            ]
+          - [Accurized Rounds, Flared Magwell, Tactical Mag]
+          - [Rangefinder, Lone Wolf, Rapid Hit, Shoot to Loot]
+          - [Master of Arms, Headseeker, Desperado]
+          - [Fitted Stock]
+        masterwork: [Range, Handling]
+        text: *charm
+
+  - name: Corundum Hammer
+    hash: 2263462407
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Flared Magwell, Tactical Mag]
+          - [Shoot to Loot]
+          - [Explosive Payload]
+        masterwork: [Reload, Handling]
+        text: &hammer >-
+          This is fine for both PvE and PvP but there are much better choices
+          for PvP and the use case for PvE is highly specific to the point where
+          I don't think I'd even actually recommend farming for this.
+      - tags: [pvp]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Smallbore,
+              Corkscrew Rifling,
+              Polygonal Rifling,
+            ]
+          - [Accurized Rounds, Flared Magwell, Tactical Mag]
+          - [Slideshot, Lone Wolf]
+          - [Keep Away, Opening Shot]
+        masterwork: [Range, Stability, Handling]
+        text: *hammer
+
+  - name: The Immortal
+    hash: 2872063099
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Ricochet Rounds]
+          - [Rangefinder]
+          - [Target Lock]
+        masterwork: [Range]
+        text: &immortal >-
+          It was  a long long time ago that this was an unstoppable wrecking
+          ball in PvP. That time has long since passed, and even with the
+          Rangefinder buff - while I can see it being good - I don't think it
+          will reign supreme like it did.
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore]
+          - [
+              Ricochet Rounds,
+              High-Caliber Rounds,
+              Armor-Piercing Rounds,
+              Light Mag,
+            ]
+          - [Rangefinder, Dynamic Sway Reduction, Keep Away]
+          - [Target Lock]
+        masterwork: [Range, Handling, Stability]
+        text: *immortal
+
+  - name: Astral Horizon
+    hash: 2269779982
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Smallbore, Corkscrew Rifling, Barrel Shroud]
+          - [Accurized Rounds, Light Mag]
+          - [Threat Detector, Slideshot]
+          - [Closing Time, Opening Shot]
+        masterwork: [Range, Handling]
+        text: >-
+          Another relic from the past. The perks are decent, but the frame isn't
+          the go-to in the meta right now, so I find it hard to get excited
+          about this.
+
+  - name: The Martlet
+    hash: 877384
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Flared Magwell]
+          - [Repulsor Brace]
+          - [Destabilizing Rounds]
+        masterwork: [Reload]
+        text: &martlet >-
+          Wow. This gun might be the best gun in the entire season. One of our
+          best New Gear options for the classic void combo and in PvP this thing
+          should be a super consistent snowball machine.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Flared Magwell, Tactical Mag]
+          - [Repulsor Brace, Firefly]
+          - [Destabilizing Rounds, Withering Gaze]
+        masterwork: [Reload, Handling, Range]
+        text: *martlet
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Headseeker]
+          - [Kill Clip, Zen Moment]
+        masterwork: [Range]
+        text: *martlet
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [Accurized Rounds, Tactical Mag, Flared Magwell]
+          - [Headseeker, Keep Away, Lone Wolf]
+          - [Kill Clip, Zen Moment, Desperado, Sword Logic, Withering Gaze]
+        masterwork: [Range, Stability, Handling]
+        text: *martlet
+
+  - name: Cataphract GL3
+    hash: 3805679279
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Quick Launch,
+              Hard Launch,
+              Smart Drift Control,
+              Countermass,
+              Linear Compensator,
+            ]
+          - [Spike Grenades, Mini Frags, Augmented Drum]
+          - [Envious Arsenal, Auto-Loading Holster, Envious Assassin]
+          - [Bait and Switch, Explosive Light]
+        masterwork: [Handling, Reload]
+        text: >-
+          GLs aren't in meta right now, and this has the exact same roll as like
+          6 other grenade launchers. Keep the god roll so you have it in your
+          vault in case it ever comes back around in the next year, but I
+          wouldn't bet on it.
+
+  - name: Reghusk's Pledge
+    hash: 2370525224
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel, Hammer-Forged Rifling]
+          - [Flared Magwell]
+          - [Destabilizing Rounds]
+          - [Repulsor Brace]
+        masterwork: [Reload]
+        text: &reghusk >-
+          A very good void primary. The lack of an origin trait stings, but it's
+          better than a lot of our other New Gear options.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Hammer-Forged Rifling,
+              Corkscrew Rifling,
+              Smallbore,
+              Arrowhead Brake,
+            ]
+          - [Flared Magwell, Tactical Mag]
+          - [Destabilizing Rounds]
+          - [Repulsor Brace]
+        masterwork: [Reload, Range]
+        text: *reghusk
+
+  - name: Gizmo Weft
+    hash: [1572604081, 4069880346]
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quick Launch]
+          - [High-Velocity Rounds]
+          - [Air Trigger, Envious Arsenal]
+          - [Bipod, Aggregate Charge, Elemental Honing]
+        masterwork: [Handling, Reload]
+        text: &weft >-
+          Micro-missile breech GLs are pretty much exclusive to movement tech
+          these days, so I'm not going to get into any kind of add clear roll
+          here until I see something that makes me think it'll be worth it. The
+          recommendations are going to be for vertical movement tech. And then
+          separately for DPS in case it winds up being worth it for swap.
+      - tags: [pve]
+        perks:
+          - [Quick Launch, Smart Drift Control, Countermass, Linear Compensator]
+          - [High-Velocity Rounds, Sticky Grenades]
+          - [Air Trigger, Envious Arsenal, Slice, Blast Distributor]
+          - [Bipod, Aggregate Charge, Elemental Honing]
+        masterwork: [Handling, Reload]
+        text: *weft

@@ -1,0 +1,303 @@
+---
+title: SpaceMonkey's Weapon Guide - Equilibrium
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: Conspiracy Honed
+    hash: 4062069077
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Overclocked Heatsink]
+          - [Vorpal Weapon]
+          - [Bait and Switch]
+        masterwork: [Reload, Cooling Efficiency]
+        text: >-
+          At base this is a decent rapid-fire sniper with good dps perks. That alone would
+          have made this a chase-worthy addition to any arsenal. But to top it off this is
+          a dynamic heat weapon, so if you time your reload/second mag dump correctly you
+          can double your magazine size for free, leading to excellent total damage and a
+          DPS value that is truly noteworthy. This is one of the best weapons in the game.
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Arrowhead Brake, Corkscrew Rifling]
+          - [
+              Overclocked Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+              Light Heatsink,
+            ]
+          - [Vorpal Weapon]
+          - [Bait and Switch]
+        masterwork: [Reload, Cooling Efficiency, Handling]
+        text: >-
+          At base this is a decent rapid-fire sniper with good dps perks. That alone would
+          have made this a chase-worthy addition to any arsenal. But to top it off this is
+          a dynamic heat weapon, so if you time your reload/second mag dump correctly you
+          can double your magazine size for free, leading to excellent total damage and a
+          DPS value that is truly noteworthy. This is one of the best weapons in the game.
+
+  - name: High Tyrant
+    hash: 2873508409
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Destabilizing Rounds]
+          - [Meganeura]
+        masterwork: [Reload, Cooling Efficiency]
+        text: >-
+          This has some interesting rolls but it isn't a worldbreaker. Sadly destabilizing
+          wound up in the wrong column, so it can't get the classic combo that would have
+          pushed it over the edge. As a blaster-type weapon this will of course feel great.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+            ]
+          - [Destabilizing Rounds]
+          - [Meganeura, Demoralize, Withering Gaze]
+        masterwork: [Reload, Cooling Efficiency, Handling, Range]
+        text: >-
+          This has some interesting rolls but it isn't a worldbreaker. Sadly destabilizing
+          wound up in the wrong column, so it can't get the classic combo that would have
+          pushed it over the edge. As a blaster-type weapon this will of course feel great.
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Projection Fuse, Tactical Heatsink, Overclocked Heatsink]
+          - [Delicate Tuning]
+          - [Headseeker]
+        masterwork: [Range]
+        text: >-
+          This has some interesting rolls but it isn't a worldbreaker. Sadly destabilizing
+          wound up in the wrong column, so it can't get the classic combo that would have
+          pushed it over the edge. As a blaster-type weapon this will of course feel great.
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [
+              Projection Fuse,
+              Tactical Heatsink,
+              Overclocked Heatsink,
+              Light Heatsink,
+              Particle Repeater,
+            ]
+          - [Delicate Tuning, Rapid Hit]
+          - [Headseeker]
+        masterwork: [Range, Stability]
+        text: >-
+          This has some interesting rolls but it isn't a worldbreaker. Sadly destabilizing
+          wound up in the wrong column, so it can't get the classic combo that would have
+          pushed it over the edge. As a blaster-type weapon this will of course feel great.
+
+  - name: Voltaic Shade
+    hash: 71057630
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Jolting Feedback]
+          - [Voltshot]
+        masterwork: [Reload, Cooling Efficiency]
+        text: >-
+          Another very good weapon from this dungeon. Rapid-fire scouts are the only members
+          of the weapon family that really get to shine right now, and this is a blaster on
+          top of that. Some very good rolls for both PvE and PvP
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+            ]
+          - [Jolting Feedback]
+          - [Voltshot, Rolling Storm]
+        masterwork: [Reload, Cooling Efficiency, Handling]
+        text: >-
+          Another very good weapon from this dungeon. Rapid-fire scouts are the only members
+          of the weapon family that really get to shine right now, and this is a blaster on
+          top of that. Some very good rolls for both PvE and PvP
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Polygonal Rifling]
+          - [Particle Repeater, Tactical Heatsink, Overclocked Heatsink]
+          - [Delicate Tuning, Keep Away]
+          - [Precision Instrument]
+        masterwork: [Stability]
+        text: >-
+          Another very good weapon from this dungeon. Rapid-fire scouts are the only members
+          of the weapon family that really get to shine right now, and this is a blaster on
+          top of that. Some very good rolls for both PvE and PvP
+      - tags: [pvp]
+        perks:
+          - [
+              Polygonal Rifling,
+              Arrowhead Brake,
+              Smallbore,
+              Fluted Barrel,
+              Corkscrew Rifling,
+            ]
+          - [
+              Particle Repeater,
+              Tactical Heatsink,
+              Overclocked Heatsink,
+              Light Heatsink,
+            ]
+          - [Delicate Tuning, Keep Away, Rapid Hit]
+          - [Precision Instrument]
+        masterwork: [Stability, Handling]
+        text: >-
+          Another very good weapon from this dungeon. Rapid-fire scouts are the only members
+          of the weapon family that really get to shine right now, and this is a blaster on
+          top of that. Some very good rolls for both PvE and PvP
+
+  - name: Zealous Ideal
+    hash: 1863583117
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Heal Clip]
+          - [Incandescent]
+        masterwork: [Reload, Cooling Efficiency]
+        text: >-
+          Precision autos are not very good right now, but this weapon is saved by being a
+          blaster and just naturally being better than every other auto rifle basically.
+          Overall this is a fine weapon. Burning Ambition is also decent for supporting a
+          hellion warlock build, much like Ahab Char.
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+              Projection Fuse,
+            ]
+          - [Heal Clip, Attrition Orbs]
+          - [Incandescent, Burning Ambition]
+        masterwork: [Reload, Cooling Efficiency, Range, Handling]
+        text: >-
+          Precision autos are not very good right now, but this weapon is saved by being a
+          blaster and just naturally being better than every other auto rifle basically.
+          Overall this is a fine weapon. Burning Ambition is also decent for supporting a
+          hellion warlock build, much like Ahab Char.
+
+  - name: Bitter End
+    hash: 954563454
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Overclocked Heatsink, Light Heatsink]
+          - [Trickle Charge]
+          - [Killing Tally]
+        masterwork: [Cooling Efficiency]
+        text: >-
+          The idea of a blaster machine gun with built in reconstruction (via cooling) is
+          very cool. However column 1 misses so hard for this gun it's hard to reconcile.
+          With trickle charge this gun is kind of a baby thunderlord when shooting from
+          behind a storm's keep barricade, but that's a very specific use case. Overall
+          this should be a good gun, just like all the weapons from the dungeon, but it
+          could have been better.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [
+              Overclocked Heatsink,
+              Light Heatsink,
+              Ionized Heatsink,
+              Enhanced Heatsink,
+              Projection Fuse,
+            ]
+          - [Trickle Charge, Eddy Current, Cooling Baubles]
+          - [Killing Tally, Jolting Feedback]
+        masterwork: [Cooling Efficiency, Handling, Reload]
+        text: >-
+          The idea of a blaster machine gun with built in reconstruction (via cooling) is
+          very cool. However column 1 misses so hard for this gun it's hard to reconcile.
+          With trickle charge this gun is kind of a baby thunderlord when shooting from
+          behind a storm's keep barricade, but that's a very specific use case. Overall
+          this should be a good gun, just like all the weapons from the dungeon, but it
+          could have been better.
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Polygonal Rifling]
+          - [Particle Repeater, Tactical Heatsink, Overclocked Heatsink]
+          - [Delicate Tuning]
+          - [Killing Tally]
+        masterwork: [Stability]
+        text: >-
+          The idea of a blaster machine gun with built in reconstruction (via cooling) is
+          very cool. However column 1 misses so hard for this gun it's hard to reconcile.
+          With trickle charge this gun is kind of a baby thunderlord when shooting from
+          behind a storm's keep barricade, but that's a very specific use case. Overall
+          this should be a good gun, just like all the weapons from the dungeon, but it
+          could have been better.
+      - tags: [pvp]
+        perks:
+          - [
+              Polygonal Rifling,
+              Arrowhead Brake,
+              Smallbore,
+              Fluted Barrel,
+              Corkscrew Rifling,
+            ]
+          - [
+              Particle Repeater,
+              Tactical Heatsink,
+              Overclocked Heatsink,
+              Light Heatsink,
+            ]
+          - [Delicate Tuning]
+          - [Killing Tally]
+        masterwork: [Stability, Handling]
+        text: >-
+          The idea of a blaster machine gun with built in reconstruction (via cooling) is
+          very cool. However column 1 misses so hard for this gun it's hard to reconcile.
+          With trickle charge this gun is kind of a baby thunderlord when shooting from
+          behind a storm's keep barricade, but that's a very specific use case. Overall
+          this should be a good gun, just like all the weapons from the dungeon, but it
+          could have been better.
+
+  - name: Sullen Claw
+    hash: 1085743380
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Jagged Edge]
+          - [Swordmaster's Guard]
+          - [Vorpal Weapon, Eager Edge]
+          - [Whirlwind Blade, Destabilizing Rounds]
+        masterwork: [Impact]
+        text: >-
+          Very cool sword, especially this season with all the support for swords in the
+          artifact. The double damage perks here are great, and make this a good "no setup
+          required" heavy sword DPS option. Eager Edge is probably the actual draw here
+          though as the sword gets way more ammo at base than other frames and the light
+          attack is both a faster animaton and more aggressive forward momentum.
+      - tags: [pve]
+        perks:
+          - [Jagged Edge, Honed Edge]
+          - [Swordmaster's Guard, Balanced Guard, Enduring Guard]
+          - [Vorpal Weapon, Eager Edge, Relentless Strikes]
+          - [Whirlwind Blade, Destabilizing Rounds, Bait and Switch]
+        masterwork: [Impact]
+        text: >-
+          Very cool sword, especially this season with all the support for swords in the
+          artifact. The double damage perks here are great, and make this a good "no setup
+          required" heavy sword DPS option. Eager Edge is probably the actual draw here
+          though as the sword gets way more ammo at base than other frames and the light
+          attack is both a faster animaton and more aggressive forward momentum.
