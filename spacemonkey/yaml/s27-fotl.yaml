@@ -1,0 +1,97 @@
+---
+title: SpaceMonkey's Weapon Guide - Festival of the Lost 2025
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: Gunburn
+    hash: 72775246
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel, Hammer-Forged Rifling]
+          - [Flared Magwell]
+          - [Bewildering Burst]
+          - [Attrition Orbs, Ancillary Ordinance, Kinetic Tremors]
+        masterwork: [Reload]
+        text: &gunburn >-
+          This looks great on paper. The archetype is fantastic and there are a
+          plethora of good perks here. The bad news is that it basically doesn't
+          have an origin trait for PvE, and it doesn't get Attrition Orbs paired
+          with Kinetic Tremors, so it will never be as good as Multimach.
+          Attrition Orbs paired with Bewildering Burst is pretty cool, but sadly
+          relies on getting a kill first, which means that it doesn't have
+          enough “out of the box” play. That being said, of the 3 weapons this
+          one is definitely the winner.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Hammer-Forged Rifling,
+              Corkscrew Rifling,
+              Smallbore,
+              Arrowhead Brake,
+            ]
+          - [Flared Magwell, Tactical Mag, Accurized Rounds]
+          - [Bewildering Burst, Lead From Light, Threat Detector]
+          - [Attrition Orbs, Ancillary Ordinance, Kinetic Tremors]
+        masterwork: [Reload, Range]
+        text: *gunburn
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Bewildering Burst, Lone Wolf]
+          - [Target Lock]
+        masterwork: [Range]
+        text: *gunburn
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore]
+          - [Accurized Rounds]
+          - [Bewildering Burst, Lone Wolf]
+          - [Target Lock]
+        masterwork: [Range, Handling, Stability]
+        text: *gunburn
+
+  - name: Hushed Whisper
+    hash: 3574168117
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Elastic String, Polymer String]
+          - [Fiberglass Arrow Shaft, Straight Fletching]
+          - [Slice, Lead From Light, Tear]
+          - [Explosive Head, Hatchling, Aggregate Charge]
+        masterwork: [Draw Time, Accuracy]
+        text: >-
+          Pretty underwhelming. This has the same issue that all strand
+          primaries have, where the perks they have access to are just not very
+          good. And like all bows you need a very good roll in order for it to
+          feel at all okay at a baseline. The one benefit is that it does have
+          access to Wild Card, which is not a bad origin trait for PvE. The ammo
+          gen stat here is terrible though, so this probably becomes straight up
+          useless.
+
+  - name: Arcane Embrace
+    hash: 3328019216
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Tactical Mag]
+          - [Fourth Time's the Charm]
+          - [Aggregate Charge]
+        masterwork: [Reload]
+        text: &arcane >-
+          One of the random, weird new shotgun archetypes that someone at bungie
+          keeps trying to make happen. The base gun is pretty useless, but the
+          perk combos it can get aren't bad. If Bungie ever decides to buff this
+          archetype then we could be looking at a legitimate dps threat.
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Tactical Mag, Appended Mag, Flared Magwell]
+          - [Fourth Time's the Charm, Reconstruction]
+          - [Aggregate Charge, Precision Instrument]
+        masterwork: [Reload]
+        text: *arcane

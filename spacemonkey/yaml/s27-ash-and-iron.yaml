@@ -1,0 +1,423 @@
+---
+title: SpaceMonkey's Weapon Guide - Ash and Iron
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: Forced Memorializer
+    hash: 1197073834
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Flared Magwell]
+          - [Bewildering Burst]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload]
+        text: &memorializer >-
+          At first glance this is a precision scout rifle so it would be easy to
+          write it off as dead on arrival, however the addition of some new
+          perks - notably Bewildering Burst - gives this gun some much needed
+          utility that could actually push this into relevance. Outside of that
+          this straight up powercreeps Hung Jury as well. Ancillary Ordinance is
+          actually pretty strong as well.
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Flared Magwell, Tactical Mag]
+          - [Bewildering Burst, Shoot to Loot, Explosive Payload]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload, Handling]
+        text: *memorializer
+
+  - name: Seraphine Haze
+    hash: 1524387902
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling]
+          - [Flared Magwell, Tactical Mag]
+          - [Rimestealer, Lead From Light]
+          - [Crystalline Corpsebloom, Attrition Orbs]
+        masterwork: [Reload, Range]
+        text: >-
+          One of the worst elements of one of the worst archetypes of the worst
+          weapon family is not a good place to start out. There are some
+          interesting new perks but the base gun they're attached to is too
+          heavy to be carried. And the ammo gen stat here is bad.
+
+  - name: Drang
+    hash: 358190158
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Flared Magwell]
+          - [Heal Clip]
+          - [Incandescent]
+        masterwork: [Reload, Range]
+        text: &drang >-
+          It's back and it's pretty decent. This gun has never been a good
+          pairing with Sturm, and it still isn't. Even with Disruption Break in
+          the first column it still doesn't justify running double primary.
+          Sidearms are the highest damage weapon family in the game, so Sturm
+          will kind of always play second fiddle to this anyway. As a standalone
+          weapon though this is totally legitimate - albeit not very unique.
+      - tags: [pve]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Flared Magwell, Tactical Mag, Accurized Rounds]
+          - [Heal Clip, Disruption Break]
+          - [Incandescent, Master of Arms]
+        masterwork: [Reload, Range, Handling]
+        text: *drang
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Moving Target]
+          - [Eye of the Storm]
+        masterwork: [Range, Handling]
+        text: *drang
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Corkscrew Rifling, Smallbore, Fluted Barrel]
+          - [Accurized Rounds]
+          - [Moving Target, Heal Clip]
+          - [Eye of the Storm, Master of Arms]
+        masterwork: [Range, Handling]
+        text: *drang
+
+  - name: MIDA Mini-Tool
+    hash: 3946054154
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Flared Magwell, Light Mag, Armor-Piercing Rounds]
+          - [Heal Clip, Attrition Orbs]
+          - [Incandescent, Burning Ambition]
+        masterwork: [Reload, Range]
+        text: &midamini >-
+          One of the best elements of the best archetype of this weapon family
+          is a good place to start. That being said this is basically just a
+          sidegrade from Yeartide Apex released earlier this same season. The
+          synergy this shares with MIDA Multi-Tool doesn't really matter since
+          you wouldn't run two primaries anyway and the MIDA Multi-Tool rework
+          looks pretty terrible in PvE regardless.
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [
+              Flared Magwell,
+              Light Mag,
+              Armor-Piercing Rounds,
+              High-Caliber Rounds,
+              Ricochet Rounds,
+            ]
+          - [Heal Clip, Attrition Orbs]
+          - [Incandescent, Burning Ambition, Master of Arms]
+        masterwork: [Reload, Range]
+        text: *midamini
+
+  - name: MIDA Macro-Tool
+    hash: 2699423382
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Smallbore]
+          - [Accurized Rounds]
+          - [Threat Detector, Lone Wolf]
+          - [Closing Time, Opening Shot]
+        masterwork: [Range, Handling]
+        text: &midamacro >-
+          Terrible in PvE, the frame is just bad. And that's ok because we won't
+          miss the MIDA Multi-Tool synergy there. However, both of these guns
+          look pretty decent in PvP, and MIDA Macro has the rolls to back it up.
+          This looks like a legitimately good pairing.
+      - tags: [pvp]
+        perks:
+          - [Smallbore, Corkscrew Rifling, Barrel Shroud]
+          - [Accurized Rounds, Light Mag]
+          - [Threat Detector, Lone Wolf]
+          - [Closing Time, Opening Shot]
+        masterwork: [Range, Handling]
+        text: *midamacro
+
+  - name: Unfall
+    hash: 738446555
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Volatile Launch]
+          - [Flared Magwell]
+          - [Disruption Break]
+          - [Jolting Feedback]
+        masterwork: [Blast Radius, Reload]
+        text: &unfall >-
+          Not sure why this wound up with such a mediocre perk pool compared to
+          Indebted Kindness - the predecessor this was supposed to replace. The
+          synergy with Sturm makes more sense here, but it's still a bit of a
+          headscratcher.
+      - tags: [pve]
+        perks:
+          - [Volatile Launch, Quick Launch]
+          - [Flared Magwell, High-Velocity Rounds]
+          - [Disruption Break, Lead from Gold, Impulse Amplifier, Beacon Rounds]
+          - [Jolting Feedback, Master of Arms]
+        masterwork: [Blast Radius, Reload]
+        text: *unfall
+
+  - name: Haliaetus
+    hash: 2155534128
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quick Launch]
+          - [Impact Casing]
+          - [Cluster Bomb]
+          - [Aggregate Charge, Bipod]
+        masterwork: [Reload, Handling]
+        text: &haliaetus >-
+          The origin trait here combined with Cluster Bombs makes for some quick
+          energy regeneration, which looks to be a legitimately good DPS
+          strategy now.
+      - tags: [pve]
+        perks:
+          - [
+              Quick Launch,
+              Hard Launch,
+              Smart Drift Control,
+              Linear Compensator,
+              Countermass,
+            ]
+          - [Impact Casing, Alloy Casing]
+          - [Cluster Bomb, Auto-Loading Holster, Blast Distributor]
+          - [Aggregate Charge, Bipod, Elemental Honing, Reaper's Tithe]
+        masterwork: [Reload, Handling, Velocity]
+        text: *haliaetus
+
+  - name: Submersion
+    hash: 3524386983
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quickload Rail]
+          - [Charged Bolts]
+          - [Impulse Amplifier, Auto-Loading Holster]
+          - [Aggregate Charge, Chill Clip]
+        masterwork: [Reload]
+        text: &submersion >-
+          Very unique and interesting weapon. The actual configuration of the
+          gun is pretty random, and mostly determined by the Bolts column. You
+          can make it deal explosive damage to help with add clear, have the
+          bolt itself deal extra damage, have it apply a damage-over-time
+          effect, to name a few. The Rail column mostly just gives nice stats,
+          including the new persistence stat that determines how long the bolts
+          last in the environment before expiring. Unfortunately in the case of
+          the DoT effect from Charged Bolts the Persistence stat does not
+          benefit like it should. Also, bolts can be collected after shooting
+          them (and in the case of Serrated Bolts deals damage when you remove
+          them from an enemy), which means this is a legendary heavy weapon with
+          technically infinite ammo! Aggregate Charge is an interesting damage
+          perk.
+      - tags: [pve]
+        perks:
+          - [
+              Quickload Rail,
+              Low-Profile Rail,
+              Frictionless Rail,
+              Empowered Rail,
+            ]
+          - [Charged Bolts, Serrated Bolts]
+          - [Impulse Amplifier, Auto-Loading Holster, Bolt Scavenger]
+          - [Aggregate Charge, Chill Clip]
+        masterwork: [Reload, Persistence, Velocity]
+        text: *submersion
+
+  - name: Romantic Death
+    hash: 2979965247
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Volatile Launch,
+              Confined Launch,
+              Quick Launch,
+              Linear Compensator,
+              Smart Drift Control,
+            ]
+          - [High-Velocity Rounds]
+          - [Repulsor Brace]
+          - [Destabilizing Rounds, Chain Reaction]
+        masterwork: [Reload, Handling, Blast Radius]
+        text: >-
+          Lackluster. Nothing really going on here that we don't get on better
+          weapon archetypes and families. The game has moved on from wave-frame
+          GLs.
+
+  - name: Folded Root
+    hash: 3184457500
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Quick Launch,
+              Hard Launch,
+              Smart Drift Control,
+              Linear Compensator,
+              Countermass,
+            ]
+          - [Alloy Casing, Impact Casing]
+          - [Cluster Bomb]
+          - [Bipod]
+        masterwork: [Reload]
+        text: >-
+          This is an abomination. The only thing I can think is that they let a
+          blind raccoon pick the perk pool.
+
+  - name: Everburning Glitz
+    hash: 2857870254
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel, Hammer-Forged Rifling]
+          - [Flared Magwell]
+          - [Bewildering Burst, Attrition Orbs]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload]
+        text: &glitz >-
+          Oh my yes. Bewildering Burst with Kinetic Tremors is very spicy, and
+          this is a fantastic frame for it to be on. The last of a real origin
+          trait is the only downside here. Ancillary Ordinance is actually
+          pretty strong as well.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Hammer-Forged Rifling,
+              Corkscrew Rifling,
+              Smallbore,
+              Arrowhead Brake,
+            ]
+          - [Flared Magwell, Light Mag]
+          - [Bewildering Burst, Attrition Orbs]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload, Range]
+        text: *glitz
+
+  - name: Burden of Guilt
+    hash: 976459525
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Fluted Barrel, Hammer-Forged Rifling, Smallbore, Corkscrew Rifling]
+          - [Projection Fuse, Particle Repeater]
+          - [Under Pressure, Lone Wolf]
+          - [Closing Time]
+        masterwork: [Charge Time]
+        text: &guilt >-
+          Very strong reprise of one of the best PvP fusion rifles.
+      - tags: [pvp]
+        perks:
+          - [
+              Fluted Barrel,
+              Hammer-Forged Rifling,
+              Smallbore,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Projection Fuse, Particle Repeater]
+          - [Under Pressure, Lone Wolf]
+          - [Closing Time]
+        masterwork: [Charge Time, Range, Stability, Handling]
+        text: *guilt
+
+  - name: Finite Impactor
+    hash: 1917334929
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Arrowhead Brake]
+          - [
+              Ricochet Rounds,
+              High-Caliber Rounds,
+              Armor-Piercing Rounds,
+              Light Mag,
+            ]
+          - [Slideways, Heal Clip, Killing Wind]
+          - [Precision Instrument, Moving Target]
+        masterwork: [Range, Stability, Handling]
+        text: >-
+          Strange perk pool honestly. Column 1 especially is pretty much a
+          disaster. Really not sure what they were going for with this.
+
+  - name: Cusp Sempiternal
+    hash: 2579693381
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Corkscrew Rifling, Hammer-Forged Rifling]
+          - [Flared Magwell, Accurized Rounds]
+          - [Reciprocity]
+          - [Withering Gaze]
+        masterwork: [Reload]
+        text: &cusp >-
+          Withering Gaze here is very special, especially on a primary weapon
+          that is meant for a support build. Actually tremendous. As far as raw
+          healing goes this will be outclassed by No Hesitation, but the unique
+          frame granting overshields is very cool.
+      - tags: [pve]
+        perks:
+          - [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore, Fluted Barrel]
+          - [Flared Magwell, Accurized Rounds, Tactical Mag]
+          - [Reciprocity, Attrition Orbs]
+          - [Withering Gaze, Circle of Life]
+        masterwork: [Reload]
+        text: *cusp
+
+  - name: Starscape Null
+    hash: 3868973291
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling, Smallbore]
+          - [Assault Mag, Appended Mag]
+          - [Reconstruction, Rewind Rounds]
+          - [One-Two Punch, Trench Barrel]
+        masterwork: [Handling]
+        text: >-
+          Lightweight frames kind of aren't usable anywhere right now, but this
+          has some really cool rolls if it ever comes into meta.
+
+  - name: The Ever-Present
+    hash: 3177074192
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quick Launch, Hard Launch]
+          - [Mini Frags, Augmented Drum]
+          - [Envious Arsenal]
+          - [Bait and Switch, Aggregate Charge]
+        masterwork: [Handling]
+        text: &present >-
+          If GLs were meta this would be top of the heap, especially considering
+          the origin trait giving an extra 7% dump for a DPS window.
+      - tags: [pve, god-pve]
+        perks:
+          - [
+              Quick Launch,
+              Hard Launch,
+              Smart Drift Control,
+              Countermass,
+              Linear Compensator,
+            ]
+          - [Mini Frags, Augmented Drum, Spike Grenades]
+          - [Envious Arsenal, Auto-Loading Holster]
+          - [Bait and Switch, Aggregate Charge, Elemental Honing]
+        masterwork: [Handling]
+        text: *present
