@@ -983,7 +983,7 @@ wishlist:
         text: *reghusk
 
   - name: Gizmo Weft
-    hash: [1572604081, 4069880346]
+    hash: 1572604081
     rolls:
       - tags: [pve, god-pve]
         perks:
@@ -1006,3 +1006,36 @@ wishlist:
           - [Bipod, Aggregate Charge, Elemental Honing]
         masterwork: [Handling, Reload]
         text: *weft
+
+  - name: King Orfeo
+    hash: [3481382332, 784540301]
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Elastic String, Polymer String]
+          - [Fiberglass Arrow Shaft, Straight Fletching]
+          - [Explosive Head, Archer's Tempo]
+          - [Jolting Feedback, Meganeura, Rolling Storm, Dragonfly]
+        masterwork: [Draw Time, Accuracy]
+        text: >-
+          Pretty underwhelming. The only cool thing this bow had going for it
+          was if Explosive Head would count as 2 hits which would proc jolt from
+          jolting feedback in 1 shot if you were amplified. Sadly that does not
+          work. Also, sadly this does not get the Accelerated Assault origin
+          trait on shiny versions, so there is basically no reason to chase this
+          unless you really like bows and want one that is New Gear.
+
+  - name: The Heron
+    hash: [2246386812, 617566157]
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Low-Impedance Windings, Auxiliary Reserves, Tempered Truss Rod]
+          - [Light Mag, Swap Mag, Appended Mag, Accurized Rounds]
+          - [Repulsor Brace, Disruption Break, Replenishing Aegis]
+          - [Destabilizing Rounds, Close to Melee]
+        masterwork: [Shield Duration, Handling]
+        text: >-
+          It's a glaive. It's a pretty good glaive, all things considered, but
+          it's still a very niche audience that will want this particular
+          weapon.
